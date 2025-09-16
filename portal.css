@@ -1,0 +1,23 @@
+
+
+body{
+         }
+        .header{
+            background: #151f79;
+            color: #151f79;
+            padding: 4%;
+            margin: 4%;
+         }
+        .ajuda {
+            display: inline-flexbox;
+            padding: 10px 20px;
+            background: #151f79;
+            color: white;
+            text-decoration: none;
+            border-radius: 8px;
+    }
+        .ajuda:hover {
+            background: #56579b;
+    }
+  
+

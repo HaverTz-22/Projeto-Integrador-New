@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+body {
+            font-family: "Montserrat", sans-serif;
+            background-color: #f1eded;
+            text-align: left;
+            margin: 0px;
+            padding: 0px;
+
+        }
+        header {
+            background: #151f79;
+            color: #f3efef;
+            padding: 30px;
+            margin: 10px;
+        }
+        main {
+            padding: 20px;
+            text-align: center;
+        }
+        img {
+            width: 200px;
+            border-radius: 50%;
+        }
+        a.botao {
+            display: inline-flexbox;
+            padding: 10px 20px;
+            background: #151f79;
+            color: white;
+            text-decoration: none;
+            border-radius: 8px;
+        }
+        a.botao:hover {
+            background: #7fc48a;
+        }
+        a.botum {
+             display: inline-flexbox;
+            margin-top: 15px;
+            margin-left: 5%;
+            padding: 10px 20px;
+            background: #151f79;
+            color: white;
+            text-decoration: none;
+            border-radius: 8px;
+        }
+        a.botum:hover{
+            background: #d6279c;
+        }
+        .ajuda {
+            display: inline-flexbox;
+            padding: 10px 20px;
+            margin-left: 5%;
+            background: #151f79;
+            color: white;
+            text-decoration: none;
+            border-radius: 8px;
+        }
+        .ajuda:hover {
+            background: #2e8fb6;
+        }
+        .projeto {
+            margin: 2%;
+            text-align: left;
+        }
+        .objetivo {
+            margin: 2%;
+            text-align: left;
+        }
+        .missao {
+            margin: 2%;
+            text-align: left;
+        }
